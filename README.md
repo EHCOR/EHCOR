@@ -34,9 +34,8 @@
 ### What I work with
 - Frontend: React, Next.js (SSR/SSG, app router), JavaScript
 - Backend: Java, Spring, ORMs & MVCs, REST APIs, PHP/Laravel, Python, C++
-- Data: PostgreSQL
+- Data: PostgreSQL, MySQL
 - DevOps: Docker, Kubernetes
-- Practices: testing/CI, clean modular code, scalable patterns
 
 ### Connect
 <p align="left">
