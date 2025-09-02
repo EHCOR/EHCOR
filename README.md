@@ -45,22 +45,6 @@
 </p>
 ---
 
-### GitHub at a glance
-<p>
-  <img 
-    alt="EHCOR's GitHub stats" 
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=EHCOR&show_icons=true&theme=transparent&hide_border=true" />
-  <img 
-    alt="EHCOR's GitHub streak" 
-    height="165"
-    src="https://streak-stats.demolab.com?user=EHCOR&theme=transparent&hide_border=true" />
-  <img
-    alt="Top Languages"
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EHCOR&layout=compact&theme=transparent&hide_border=true" />
-</p>
-
 <!--
 Tip: To feature specific repositories on your profile, pin them in your GitHub profile settings when you're ready.
 -->
