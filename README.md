@@ -22,9 +22,8 @@
 ---
 
 ### About me
-- I build end‑to‑end experiences: modern, performant and robust.
+- I build end‑to‑end experiences.
 - Comfortable across the stack—APIs, databases, and deployment.
-- I care about readable code, pragmatic architecture, and scalable solutions.
 - 📚 Currently learning: PHP, Laravel
 - Fun bits:
   - 🌊🤿 Scuba enthusiast
