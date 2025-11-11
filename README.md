@@ -20,9 +20,9 @@
 </p>
 
 ---
-
+- You have strayed far from the path traveller
+  
 ### About me
-- You have strayed far from the path traveller.
 - 📚 Currently learning: PHP, Laravel
 - Fun bits:
   - 🌊🤿 Scuba enthusiast
