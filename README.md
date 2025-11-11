@@ -22,8 +22,7 @@
 ---
 
 ### About me
-- I build end‑to‑end experiences.
-- Comfortable across the stack—APIs, databases, and deployment.
+- You have strayed far from the path traveller.
 - 📚 Currently learning: PHP, Laravel
 - Fun bits:
   - 🌊🤿 Scuba enthusiast
