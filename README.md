@@ -20,7 +20,7 @@
 </p>
 
 ---
-- You have strayed far from the path traveller
+You have strayed far from the path traveller
   
 ### About me
 - 📚 Currently learning: PHP, Laravel
