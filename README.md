@@ -30,8 +30,8 @@ You have strayed far from the path traveller
   - 🏺 Massive history buff
 
 ### What I work with
-- Frontend: React, Next.js (SSR/SSG, app router), JavaScript
-- Backend: Java, Spring, ORMs & MVCs, REST APIs, PHP/Laravel, Python, C++
+- Frontend: React, Next.js, JavaScript, TypeScript, SCSS, Twig, Flutter
+- Backend: Java, Python, Spring, ORMs & MVCs, REST APIs, PHP, Laravel, C++, C
 - Data: PostgreSQL, MySQL
 - DevOps: Docker, Kubernetes
 
